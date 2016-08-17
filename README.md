@@ -2,7 +2,7 @@
 个人关注的一些不错的博客 和 网站
 
 ##1.博客
-[1.破博客](http://www.poboke.com/)
+[1.破博客](http://www.poboke.com/)<br />
 [2.叶小钗](http://www.cnblogs.com/yexiaochai/)
 [3.张宴的博客](http://zyan.cc/index.php)
 [4.蔡学镛](http://weibo.com/rebol?is_hot=1)
@@ -11,9 +11,17 @@
 [7.破船之家](http://beyondvincent.com/)
 [8.王垠](http://www.yinwang.org/)
 [9.周楷文](http://blog.zhowkev.in/)
-[10.]()
-[]()
-[]()
+[10.Tiger的小站](http://www.itiger.me/)
+[11.Casa Taloyum(田伟宇)](http://casatwy.com/)
+[12.刘坤的技术博客](https://blog.cnbluebox.com/)
+[13.毕洪博](http://bihongbo.com/)
+[14.老柴的宅](http://chaishiwei.com/blog/)
+[15.Lancy's Blog](http://gracelancy.com/)
+[16.chengway](https://chengway.in/)
+[17.Prayer's blog](http://www.futantan.com/)
+[18.kitteryang](http://kittenyang.com/)
+[19.念茜的博客（安全相关）](http://blog.csdn.net/yiyaaixuexi)
+
 
 ##2.网站
 [1.NSHipster](http://nshipster.com/)
@@ -24,6 +32,23 @@
 [6.核心网络](http://www.netfoucs.com/mobile/1.html)
 [7.learn python the hard way](http://learnpythonthehardway.org/book/)
 [8.gitbook](https://www.gitbook.com/explore)
-[]()
-[]()
-[]()
+[9.swift开发者周刊](http://swiftweekly.cn/)
+[10.swifter](http://swifter.tips/)
+[11.infoQ](http://www.infoq.com/cn/)
+[12.swiftGG](http://swift.gg/)
+[13.十五言](http://www.15yan.com/)
+[14.appCoda](http://www.appcoda.com/)
+[15.NSScreencast](http://nsscreencast.com/episodes)
+[16.免费的编程书籍汇总](http://siberiawolf.com/free_programming/index.html)
+[17.freebuf(安全)](http://www.freebuf.com/)
+[18.swiftyper](http://www.swiftyper.com/)
+[19.Dev store](http://www.devstore.cn/)
+[20.iOS 版本分布](https://developer.apple.com/support/app-store/)
+[21.深度开源](http://www.open-open.com/news/)
+[22.ios creator](http://www.ioscreator.com/)
+[23.Grok Swift](https://grokswift.com/)
+[24.泊学](https://boxueio.com/)
+[25.TODO](http://www.saitjr.com/)
+[26.iOS加急审核](https://developer.apple.com/contact/app-store/?topic=expedite)
+[27.360个人图书馆](http://www.360doc.com/index.html)
+
